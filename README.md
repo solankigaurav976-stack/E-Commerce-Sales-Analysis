@@ -31,7 +31,7 @@ The SQL analysis covers:
 
 ## Dashboard
 
-![E-Commerce Sales Dashboard](./Ecommerce_Sales_Dashboard..png)
+![E-Commerce Sales Dashboard](./Ecommerce_Sales_%20Dashboard.png)
 
 ## Key Insights
 - Sports & Outdoors generated the highest revenue among product categories.
